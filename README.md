@@ -24,4 +24,8 @@ Já tive experiências com HTML e CSS (Da epoca que o Dreamweaver era verde...)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rhanielgreg)  
 
-![Profile views](https://gpvc.arturio.dev/rhanielgreg)  
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rhanielgreg}/count.svg" /></p> 
+<br>
+</div>
